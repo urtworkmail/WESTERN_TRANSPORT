@@ -39,7 +39,7 @@ const CompareTable = ({ data }) => {
               Feature
             </TableHead>
             <TableHead className="font-semibold text-text1 py-4 px-6">
-              RWCLogisticsLLC{" "}
+              WESTERN EAGLE TRANSPORT INC{" "}
             </TableHead>
             <TableHead className="font-semibold text-text1 py-4 px-6">
               Traditional Brokers
