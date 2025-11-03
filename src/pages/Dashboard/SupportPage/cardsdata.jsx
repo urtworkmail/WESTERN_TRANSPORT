@@ -16,7 +16,7 @@ export const data = [
     id: 1,
     icon: <Mail className="text-green-400 w-8 h-7"size={40} />,
     title: "Phone Support",
-    text: "Call us at (802) 441-6386 ",
+    text: "Call us at (208) 901-8884 ",
     label: "24/7 Available"
   },
   {
