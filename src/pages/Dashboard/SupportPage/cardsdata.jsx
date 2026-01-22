@@ -9,14 +9,14 @@ export const data = [
     id: 0,
     icon: <Phone className="text-blue-400 " size={40} />,
     title: "Address",
-    text: "P.O.BOX 45321 BOISE ,ID 83711",
+    text: "405 Linden Avenue Jacksonville, FL 32207",
     label: "Average Response:2 min"
   },
   {
     id: 1,
     icon: <Mail className="text-green-400 w-8 h-7"size={40} />,
     title: "Phone Support",
-    text: "Call us at (208) 901-8884 ",
+    text: "Call us at (321) 621-7171 ",
     label: "24/7 Available"
   },
   {
