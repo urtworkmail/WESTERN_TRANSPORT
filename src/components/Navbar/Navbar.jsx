@@ -107,7 +107,7 @@ const Navbar = () => {
               <div className="flex items-center space-x-2">
                 <STechIcon name="truck" className="w-6 h-6 text-orange" />
                 <h2 className="text-text1 text-xl font-bold">
-                  AU Truckers</br>
+                  <br>AU Truckers</br>
                 </h2>
               </div>
               <button
