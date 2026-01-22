@@ -49,7 +49,7 @@ const Navbar = () => {
         <div className="max-w-6xl mx-auto flex items-center justify-between space-x-5 gap-3 ml-1 ">
           <div className="flex items-center space-x-3">
             <STechIcon name="truck" className="w-8 h-8 text-orange" />
-            <h1 className="text-2xl font-bold text-white">WESTERN EAGLE TRANSPORT INC</h1>
+            <h1 className="text-2xl font-bold text-white">AU Truckers</h1>
           </div>
 
           <div className="hidden lg:flex">
@@ -107,7 +107,7 @@ const Navbar = () => {
               <div className="flex items-center space-x-2">
                 <STechIcon name="truck" className="w-6 h-6 text-orange" />
                 <h2 className="text-text1 text-xl font-bold">
-                  WESTERN EAGLE <br>LTRANSPORT INC</br>
+                  AU Truckers</br>
                 </h2>
               </div>
               <button
