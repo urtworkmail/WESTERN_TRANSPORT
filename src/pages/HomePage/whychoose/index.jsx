@@ -43,7 +43,7 @@ const WhyChoose = () => {
           viewport={{ once: true }}
         >
           <SectionTitle
-            title="Why Choose WESTERN EAGLE TRANSPORT INC?"
+            title="Why Choose AU Truckers?"
             paragraph="Built by logistics experts, powered by AI technology, trusted by thousands of drivers and shippers nationwide."
             center
             width="800px"
