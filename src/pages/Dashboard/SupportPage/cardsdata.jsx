@@ -23,7 +23,7 @@ export const data = [
     id: 2,
     icon: <MessageCircle className="text-purple-400 w-8 h-7"size={40} />,
     title: "Email Support",
-    text: "support@westerneagletransportinc.com",
+    text: "support@autruckers.com",
     label: "Response within 4 hours"
   }
 ]
