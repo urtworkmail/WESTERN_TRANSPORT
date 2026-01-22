@@ -25,7 +25,7 @@ const Footer = () => {
             <div className="flex items-center gap-3 mb-4">
               <STechIcon name="truck" className="w-8 h-8 text-orange" />
               <span className="text-xl font-semibold text-text1">
-                WESTERN EAGLE TRANSPORT INC
+                AU Truckers
               </span>
             </div>
             <p className="text-sm text-text2">
@@ -109,15 +109,15 @@ const Footer = () => {
         </div>
 <div className="border-t border-text2/30 mt-8 pt-6 space-y-2">
   <p className="text-center text-sm text-text2">
-    📧 <a href="mailto:support@westerneagletransportinc.com" className="hover:text-orange transition-colors">
-     support@westerneagletransportinc.com
+    📧 <a href="mailto:support@autruckers.com" className="hover:text-orange transition-colors">
+     support@autruckers.com
     </a>
   </p>
 </div>
 
         <div className="border-t border-text2/30 mt-8 pt-6">
           <p className="text-center text-sm text-text2">
-            © 2025 WESTERN EAGLE TRANSPORT INC. All rights reserved.
+            © 2026 AU Truckers. All rights reserved.
           </p>
         </div>
       </div>
